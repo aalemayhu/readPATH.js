@@ -1,0 +1,9 @@
+{
+  "name": "readPATH.js",
+  "version": "0.0.0",
+  "description": "parse the $PATH variable",
+  "main": "index.js",
+  "repository": "git@github.com:scanf/readPATH.js.git",
+  "author": "Alexander Alemayhu <alexander@alemayhu.com>",
+  "license": "MIT"
+}
