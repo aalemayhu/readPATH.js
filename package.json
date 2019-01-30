@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "git@github.com:scanf/readPATH.js.git",
   "author": "Alexander Alemayhu <alexander@alemayhu.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^1.2.0"
+  }
 }
