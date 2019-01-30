@@ -8,5 +8,8 @@
   "license": "MIT",
   "devDependencies": {
     "ava": "^1.2.0"
+  },
+  "scripts": {
+    "test": "ava --watch test.js"
   }
 }
