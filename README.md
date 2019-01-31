@@ -1,5 +1,7 @@
 # ![readPATH.js](read%20%24PATH%20(1).png)
 
+**WIP**, don't use!
+
 parse the $PATH variable to a array
 
 ## LICENSE
